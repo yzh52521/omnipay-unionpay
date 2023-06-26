@@ -1,5 +1,5 @@
 {
-  "name": "lokielse/omnipay-unionpay",
+  "name": "yzh52521/omnipay-unionpay",
   "type": "library",
   "description": "UnionPay gateway for Omnipay payment processing library",
   "keywords": [
@@ -16,7 +16,7 @@
     "无跳转支付",
     "laravel"
   ],
-  "homepage": "https://github.com/lokielse/omnipay-unionpay",
+  "homepage": "https://github.com/yzh52521/omnipay-unionpay",
   "license": "MIT",
   "authors": [
     {
@@ -31,7 +31,7 @@
   },
   "require": {
     "omnipay/common": "^3.0",
-    "php-http/guzzle6-adapter": "*"
+    "php-http/guzzle7-adapter": "*"
   },
   "require-dev": {
     "omnipay/tests": "^3.0",
